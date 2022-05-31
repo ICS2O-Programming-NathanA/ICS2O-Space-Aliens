@@ -2,4 +2,8 @@
 
 
 
-[![Run on Repl.it](https://repl.it/badge/github/ICS2O-Programming-NathanA/ICS2O-Space-Aliens)](https://repl.it/github/ICS2O-Programming-NathanA/ICS2O-Space-Aliens)
+[![Run on Repl.it](https://repl.it/badge/githubICS2O-Programming-NathanA/ICS2O-Space-Aliens)](https://repl.it/github/ICS2O-Programming-NathanA/ICS2O-Space-Aliens)
+
+
+
+This site can be found at: [https://ICS2O-Programming-NathanA.github.io/ICS2O-Space-Aliens](https://ICS2O-Programming-NathanA.github.io/ICS2O-Space-Aliens)
